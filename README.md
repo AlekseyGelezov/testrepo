@@ -4,3 +4,4 @@ branch1 test commit 2
 branch1 test commit 3
 branch2 test commit 1
 branch2 test commit 2
+branch2 test commit 3
